@@ -20,7 +20,7 @@ function compareNumbers() {
 
     if (attempts < maxGuesses) {
         if (userNumber > computerNumber) {
-            document.getElementById('textOutput').innerHTML = 'Seu número é muito baixo'
+            document.getElementById('textOutput').innerHTML = 'Seu número é muito alto'
             document.getElementById('inputBox').value = ''
             attempts++
             document.getElementById('attempts').innerHTML = attempts
