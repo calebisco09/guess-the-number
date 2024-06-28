@@ -71,7 +71,7 @@ input {
     background: transparent;
     margin: 2rem 0;
     padding: 1rem 0;
-    width: 25rem;
+    width: 15rem;
     text-align: center;
     font-size: 2rem;
 }
@@ -88,7 +88,7 @@ input {
 }
 
 .info span {
-    font-size: 1.6rem;
+    font-size: 1.6rem;   
 }
 
 #newgGameButton {
